@@ -1,0 +1,36 @@
+.head {
+  font-family: "Quicksand", Arial, Helvetica, sans-serif;
+  font-weight: 600;
+  font-size: 55px;
+  text-align: center;
+}
+
+.content-head {
+  font-family: "Josefin Sans", Arial, Helvetica, sans-serif;
+  margin-top: 30px;
+  margin-bottom: 12px;
+}
+
+.symbol {
+  padding: 14px;
+}
+
+.text {
+  font-family: "Martian Mono", Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  padding-top: 2px;
+  padding-bottom: 6px;
+}
+
+.web-link {
+  font-family: "Martian Mono", Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  color: black;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.sections {
+  padding-bottom: 6px;
+  padding-top: 4px;
+}
