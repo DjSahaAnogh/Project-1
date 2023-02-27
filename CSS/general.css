@@ -4,11 +4,14 @@ p {
 }
 
 body {
-  margin: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 4px;
+  margin-right: 2px;
   background-color: rgb(233, 233, 233);
 }
 
-.pic{
+.pic {
   width: 220px;
   height: 220px;
   border-radius: 110px;

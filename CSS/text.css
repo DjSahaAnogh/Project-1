@@ -25,7 +25,7 @@
 .web-link {
   font-family: "Martian Mono", Arial, Helvetica, sans-serif;
   font-size: 18px;
-  color: black;
+  color: rgb(103, 200, 233);
   text-decoration: none;
   font-weight: 600;
 }
@@ -35,7 +35,7 @@
   padding-top: 4px;
 }
 
-.aboutme{
+.aboutme {
   display: grid;
   grid-template-columns: 2fr 1fr;
 }
