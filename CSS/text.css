@@ -3,6 +3,7 @@
   font-weight: 600;
   font-size: 55px;
   text-align: center;
+  padding: 15px;
 }
 
 .content-head {
@@ -38,4 +39,8 @@
 .aboutme {
   display: grid;
   grid-template-columns: 2fr 1fr;
+}
+
+.size{
+  margin-top: 550px;
 }

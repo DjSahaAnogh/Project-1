@@ -1,18 +1,26 @@
 p {
-  margin-top: 0;
-  margin-bottom: 0;
+  margin-top: 5px;
+  margin-bottom: 5px;
 }
 
 body {
-  margin-top: 0;
-  margin-bottom: 0;
-  margin-left: 4px;
-  margin-right: 2px;
+  margin-top: 2px;
+  margin-bottom: 2px;
+  margin-left: 10px;
+  margin-right: 10px;
   background-color: rgb(233, 233, 233);
 }
 
 .pic {
   width: 220px;
   height: 220px;
+  float: right;
+}
+
+.school_pic{
+  width: 250px;
+  height: 250px;
   border-radius: 110px;
+  padding: 15px;
+  float: right;
 }
