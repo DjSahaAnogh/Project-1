@@ -24,3 +24,10 @@ body {
   padding: 15px;
   float: right;
 }
+
+.pic_1{
+  width: 550px;
+  height: 450px;
+  padding: 30px;
+  border-radius: 5px;
+}
