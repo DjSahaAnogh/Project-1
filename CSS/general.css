@@ -6,8 +6,8 @@ p {
 body {
   margin-top: 2px;
   margin-bottom: 2px;
-  margin-left: 10px;
-  margin-right: 10px;
+  margin-left: 3px;
+  margin-right: 3px;
   background-color: rgb(233, 233, 233);
 }
 
@@ -30,4 +30,5 @@ body {
   height: 450px;
   padding: 30px;
   border-radius: 5px;
+  float: left;
 }
