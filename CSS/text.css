@@ -31,7 +31,23 @@
   font-weight: 600;
 }
 
-.sections {
+.sections-head {
+  padding-bottom: 4px;
+  padding-top: 4px;
+}
+
+
+.sections-html {
+  padding-bottom: 4px;
+  padding-top: 4px;
+}
+
+.sections-css {
+  padding-bottom: 4px;
+  padding-top: 4px;
+}
+
+.sections-java {
   padding-bottom: 4px;
   padding-top: 4px;
 }
