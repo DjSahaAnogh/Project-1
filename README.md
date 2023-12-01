@@ -1,2 +1,2 @@
 # Project-1
-This is my onw project. In it I well try to cover all html tags
+This is my project. In this project, I will cover all HTML tags.
