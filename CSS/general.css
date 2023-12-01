@@ -32,3 +32,30 @@ body {
   border-radius: 5px;
   float: left;
 }
+
+.button_div{
+  float: left;
+}
+
+.go_to_top{
+  font-size: medium;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #3498db;
+  border-width: 1px;
+  border: solid;
+  border-color: #3498db;
+  border-radius: 6px;
+  padding: 10px 20px;
+  cursor: pointer;
+  margin-top: 15px;
+}
+
+.button-trans{
+  transition: 2s;
+}
+
+.button-trans:hover{
+  color: #3498db;
+  background-color: white;
+}
