@@ -51,11 +51,8 @@ body {
   margin-top: 15px;
 }
 
-.button-trans{
-  transition: 2s;
-}
-
 .button-trans:hover{
   color: #3498db;
   background-color: white;
+  transition: 2s;
 }
