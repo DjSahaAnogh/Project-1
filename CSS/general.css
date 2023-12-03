@@ -28,9 +28,17 @@ body {
 .pic_1{
   width: 550px;
   height: 450px;
-  padding: 30px;
-  border-radius: 5px;
+  margin: 30px;
+  border-radius: 15px;
   float: left;
+}
+
+.pic_2{
+  width: 550px;
+  height: 450px;
+  margin: 15px;
+  border-radius: 16px;
+  float: center;
 }
 
 .button_div{
