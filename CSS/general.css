@@ -1,3 +1,17 @@
 .body{
-  margin: 5px;
+  margin: 15px;
+  background-color: #afeeee;
+}
+
+.content_holder{
+  padding: 2px;
+  background-color: #b0e0e6;
+}
+
+.section{
+  padding: 3px;
+}
+
+.content_footer{
+  background-color: #f5f5f5;
 }
