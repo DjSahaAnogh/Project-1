@@ -1,11 +1,21 @@
-.body{
+body{
   margin: 15px;
   background-color: #afeeee;
+}
+
+p{
+  margin-top: 3px;
+  margin-bottom: 3px;
 }
 
 .content_holder{
   padding: 2px;
   background-color: #b0e0e6;
+}
+
+.let_us_get_an_into{
+  margin-top: 150px;
+  margin-bottom: 150px;
 }
 
 .section{
@@ -24,5 +34,6 @@
 }
 
 .skill_div{
-  background-color: #29575e;
+  background-color: #5dcfe0;
+  padding: 15px;
 }
