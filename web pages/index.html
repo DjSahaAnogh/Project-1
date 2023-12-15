@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="/css/general.css" />
     <link rel="stylesheet" href="/css/css for contents/text.css" />
     <link rel="stylesheet" href="/css/nav_bar.css" />
+    <link rel="stylesheet" href="/css/css for footer/footer-text.css" />
 
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -81,8 +82,26 @@
           </div>
         </div>
       </section>
-      <section class="my_certificate"></section>
     </main>
-    <footer class="content_footer"></footer>
+    <footer class="content_footer">
+      <div class="col_1">
+        <h3 class="footer_text">Useful Links</h3>
+        <a class="footer_text" href="#">About Me</a>
+        <a class="footer_text" href="#">Contact</a>
+        <a class="footer_text" href="#">Contents</a>
+      </div>
+      <div class="col_2">
+        <h3 class="footer_text">Email Me!</h3>
+        <form>
+          <input class="name_input" type="text" id="name" placeholder="Your Name" required>
+          <br>
+          <input class="email_input" type="email" id="Email" placeholder="Your Email" required>
+          <br>
+          <textarea class="body_input" id="message" rows="6" placeholder="Type here..." required></textarea>
+          <br>
+          <button type="submit">Send</button>
+        </form>
+      </div>
+    </footer>
   </body>
 </html>
