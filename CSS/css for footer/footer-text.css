@@ -36,26 +36,15 @@ footer div{
   margin-left: 30px;
 }
 
-.sub_input{
-  width: 400px;
-  height: 45px;
-  border: none;
-  outline: none;
-  border-radius: 4px;
-  text-align: center;
-  margin-top: 10px;
-  margin-bottom: 20px;
-}
-
 .name_input{
   width: 400px;
   height: 45px;
   border: none;
   outline: none;
   border-radius: 4px;
-  text-align: center;
   margin-top: 10px;
   margin-bottom: 20px;
+  padding: 15px;
 }
 
 .email_input{
@@ -64,9 +53,9 @@ footer div{
   border: none;
   outline: none;
   border-radius: 4px;
-  text-align: center;
   margin-top: 10px;
   margin-bottom: 20px;
+  padding: 15px;
 }
 
 .body_input{
@@ -75,9 +64,9 @@ footer div{
   border: none;
   outline: none;
   border-radius: 4px;
-  text-align: center;
   margin-top: 10px;
   margin-bottom: 20px;
+  padding: 15px;
 }
 
 .col_2 button{
